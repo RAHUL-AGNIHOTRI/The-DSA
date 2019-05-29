@@ -1,0 +1,23 @@
+1.Machine Learning:-It is a field of study that gives computers that ability to do learn without being explicitly programmed.
+
+2.ML Formal Defn:-  A computer program is said to-
+				learn from experience E with respect to some class of task T and performance measure P 
+				if its performance at task T as measured by P,improves with experience E.
+3.Required Plugins:-
+
+	1. numpy
+	2. matplotlib
+	3. pandas
+	4. scipy 
+	5. sci-kitlearn
+	6. sklearn
+	7. pillow
+	8. seaborn
+4.Steps involved in building a ML Application :-
+
+	1. Collect DATA.
+	2. Prepare the input DATA - cleanse,format etc.
+	3. Annalyze the DATA - plotting, finding features etc.
+	4. Train the Algorithm - run the designed algorithm on training data(not for unsupervised learning).
+	5. Test the Algorithm - see to what extent it works on the test data.
+	6. Use it - If the test is successful, use it with newfor which we are trying to find the answer.
